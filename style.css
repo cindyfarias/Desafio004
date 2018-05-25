@@ -181,6 +181,13 @@ input {
 	padding: 7px;
 border-radius: 3px;
 border: 1px solid #ccc;
+font-size: 13px;
+}
+
+input:focus {
+
+border: 1px solid #116cc3;
+color: #116cc3;
 }
 
 .enviar {
